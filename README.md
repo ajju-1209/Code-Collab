@@ -2,7 +2,7 @@ Code-Collab (A collaborative coding platform!)
 ## Steps to run project locally
 
 1- Download the source code locally.  
-2- Open the project in vs code.
+2- Open the project in vs code.  
 3- Make your database in MongoDb and create .env file and enter    the credential of db inside that file    
 4- Type npm install in the terminal to install dependencies.  
 5- Now Type npm start in the terminal ,this will start your server.    
